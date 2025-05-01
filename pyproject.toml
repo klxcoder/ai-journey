@@ -12,7 +12,8 @@ dependencies = [
     "tensorflow (==2.16.1)",
     "notebook (==7.0.8)",
     "numpy (==1.26.4)",
-    "torch (==2.2.1)"
+    "torch (==2.2.1)",
+    "torchvision (==0.17.1)"
 ]
 
 
