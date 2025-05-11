@@ -13,7 +13,8 @@ dependencies = [
     "notebook (==7.0.8)",
     "numpy (==1.26.4)",
     "torch (==2.2.1)",
-    "torchvision (==0.17.1)"
+    "torchvision (==0.17.1)",
+    "ipympl (>=0.9.7,<0.10.0)"
 ]
 
 
